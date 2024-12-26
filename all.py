@@ -175,7 +175,7 @@ class ImageGallery:
 
 def main():
     # Configure these paths
-    GALLERY_DIR = "/Users/thevedantsingh/Desktop/album"  # Replace with your photos directory
+    GALLERY_DIR = "path/to/your/album"  # Replace with your photos directory
     SAVE_PATH = "gallery_data.pkl"
     
     # Load or create gallery
